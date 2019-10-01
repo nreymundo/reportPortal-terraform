@@ -20,7 +20,7 @@ variable "owner" {
   default = "Nicolas Reymundo"
 }
 variable "repo" {
-  default = "https://github.com/mulesoft-ops/tf-arm-reportportal"
+  default = ""
 }
 variable "purpose" {
   default = "test results aggregation tool"
